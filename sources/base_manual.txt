@@ -1,4 +1,4 @@
-# eBlocker RUSSIAN-PROPAGANDA-MAX
+# eBlocker RUSSIAN-PROPAGANDA
 # Auto-generated: 2026-08-08 17:28 UTC
 # Total domains: 633
 #
