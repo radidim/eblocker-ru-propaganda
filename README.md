@@ -51,9 +51,9 @@ https://raw.githubusercontent.com/radidim/eblocker-ru-propaganda/main/output/blo
 
 ## Как се поддържа списъка 
 
-- Ръчно добавяне на домейн: редактира се`domains-base.txt` директно в GitHub
+- Ръчно добавяне на домейн: редактира се`base_manual.txt` директно в GitHub
   (или локално + push) → Action-ът автоматично прегенерира крайния файл.
-- Добавяне на външен източник: виж инструкциите в `sources.txt`.
+- Добавяне на външен източник: виж инструкциите.
 - Всичко е plain text — няма нужда от build.
 
 ## Забележка
