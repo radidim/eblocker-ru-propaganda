@@ -33,7 +33,7 @@ sources.txt       ──┘            (обединява, чисти,        (
 След първия успешен run, суровият файл ще е достъпен на:
 
 ```
-https://raw.githubusercontent.com/<твоя-акаунт>/eblocker-ru-propaganda/main/eBlocker_Russian_Propaganda_MAX.txt
+https://raw.githubusercontent.com/radidim/eblocker-ru-propaganda/main/output/blocklist.txt
 ```
 
 В eBlocker:
