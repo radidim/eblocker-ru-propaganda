@@ -25,7 +25,7 @@ sources.txt       ──┘            (обединява, чисти,        (
   - всеки ден в 04:00 UTC,
   - при всяко push към `domains-base.txt` / `sources.txt`,
   - или ръчно от „Actions“.
-  При промяна commit-ва новия `eBlocker_Russian_Propaganda_MAX.txt` обратно
+  При промяна commit-ва новия base_manual.txt` обратно
   в репото — тоест "auto-updating" в буквалния смисъл.
 
 ## URL за eBlocker
