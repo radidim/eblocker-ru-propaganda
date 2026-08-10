@@ -6,3 +6,5 @@
 
 https://raw.githubusercontent.com/astappiev/f-russia-list/main/filter-propaganda.txt
 https://github.com/TheBlockList/Blocklist/
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/mas
