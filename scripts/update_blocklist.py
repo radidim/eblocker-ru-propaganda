@@ -114,7 +114,7 @@ def main() -> int:
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     stats_lines = [
-        "# eBlocker RU-Propaganda-MAX — статистика на последното обновяване",
+        "# eBlocker RU-Propaganda — статистика на последното обновяване",
         "",
         f"Последно обновено: **{now}**",
         "",
