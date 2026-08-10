@@ -5,4 +5,4 @@
 # Редове, започващи с #, се пропускат.
 
 https://raw.githubusercontent.com/astappiev/f-russia-list/main/filter-propaganda.txt
-https://github.com/TheBlockList/Blocklist/blob/master/Apple
+https://github.com/TheBlockList/Blocklist/blob/master/*.*
