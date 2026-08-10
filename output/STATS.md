@@ -1,6 +1,6 @@
 # eBlocker RU-Propaganda — статистика на последното обновяване
 
-Последно обновено: **2026-08-10 12:51 UTC**
+Последно обновено: **2026-08-10 13:03 UTC**
 
 - Домейни от ръчния (базов) списък: **633**
 - Общо уникални домейни след сливане: **100324**
@@ -11,4 +11,3 @@
 |---|---|---|
 | https://raw.githubusercontent.com/astappiev/f-russia-list/main/filter-propaganda.txt | 178 | 133 нови |
 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts | 99558 | 99558 нови |
-| https://raw.githubusercontent.com/StevenBlack/hosts/mas | 0 | error: HTTP Error 404: Not Found |
