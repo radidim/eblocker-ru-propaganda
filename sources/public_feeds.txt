@@ -49,3 +49,4 @@ https://developers.google.com/safe-browsing
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://talosintelligence.com/
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
+https://raw.githubusercontent.com/cavi-au/Consent-O-Matic/master/rules-list.json
