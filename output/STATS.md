@@ -1,6 +1,6 @@
 # eBlocker RU-Propaganda — статистика на последното обновяване
 
-Последно обновено: **2026-08-15 13:31 UTC**
+Последно обновено: **2026-08-15 13:34 UTC**
 
 - Домейни от ръчния (базов) списък: **633**
 - Общо уникални домейни след сливане: **1452140**
@@ -54,3 +54,4 @@
 | https://feodotracker.abuse.ch/downloads/ipblocklist.txt | 5 | 5 нови |
 | https://talosintelligence.com/ | 0 | 0 нови |
 | https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts | 2189 | 0 нови |
+| https://raw.githubusercontent.com/cavi-au/Consent-O-Matic/master/rules-list.json | 0 | 0 нови |
