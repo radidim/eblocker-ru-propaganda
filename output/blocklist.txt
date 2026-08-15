@@ -3095,6 +3095,7 @@ a-xnxx.com
 a.1nimo.com
 a.21pron.com
 a.abnad.net
+a.actualno.com
 a.ad.gt
 a.ad.playstation.net
 a.adnium.com
@@ -7636,6 +7637,7 @@ adswizz.com
 adsx.greystripe.com
 adsx.unityads.unity3d.com
 adsxyz.com
+adsy.mail.bg
 adsymptotic.com
 adsyndication.msn.com
 adsynergy.com
@@ -10826,6 +10828,7 @@ ampliocreditian-solution.com
 ampliocreditian-system.com
 ampliocreditian-system.digital
 ampliocreditian.digital
+amplitude.com
 amplolucrenio-app.com
 amplolucrenio.live
 ampmetrics.engadget.com
@@ -12698,6 +12701,7 @@ api.donglogs.com
 api.doubles.click
 api.doumob.com
 api.eagllwin.com
+api.engager.ecbsn.com
 api.ent.mobileanjian.com
 api.eplay.com
 api.eqmob.com
@@ -13033,6 +13037,7 @@ apis.murdoog.com
 apiservice.ficool.com
 apiservices.krxd.net
 apitm.toolmatrix.plus
+apituner.ecbsn.com
 apiuni.4eappapi1.com
 apiv2.fansly.com
 apiv2.moengage.com
@@ -14811,6 +14816,7 @@ assets-cf.xtremechat.com
 assets-jpcust.jwpsrv.com
 assets-js.blacked.com
 assets-l3.flixcdn.com
+assets-secure.applicaster.com
 assets-v2.yieldify-production.com
 assets-v2.yieldify.com
 assets-widget-ah.flixcdn.com
@@ -14828,6 +14834,7 @@ assets.buysellads.com
 assets.connatix.com
 assets.customer.io
 assets.deployads.com
+assets.emarsys.net
 assets.erogames.com
 assets.flyflv.com
 assets.fuckyoucash.com
@@ -16063,6 +16070,7 @@ b0tmarket.site
 b1-chidc2.zemanta.com
 b1-data.ads.heytapmobi.com
 b1-nydc1.zemanta.com
+b1.alo.bg
 b1.gotube.me
 b1.hentaibaka.one
 b1.perfb.com
@@ -32272,6 +32280,7 @@ custom.yieldify.com
 customad.cnn.com
 customads.co
 customer-gb.tlsext.com
+customer.cludo.com
 customer.iad-03.braze.com
 customerevents.netflix.com
 customerreviewproduct.com
@@ -40596,6 +40605,7 @@ events.brightline.tv
 events.browsiprod.com
 events.cid.samba.tv
 events.claspws.tv
+events.engager.ecbsn.com
 events.engageya.com
 events.foreseeresults.com
 events.hotjar.io
@@ -42232,6 +42242,7 @@ fbw.11bet.us
 fc.gemomedia.top
 fc.itmedia.co.jp
 fc.webmasterpro.de
+fc.yahoo.com
 fc1.fcb88d.com
 fc2.com
 fc2.fcb88d.com
@@ -42668,6 +42679,7 @@ ff.connextra.com
 ff.doubleclick.net
 ff.imacdn.com
 ff1c0cc5.api.splkmobile.com
+ffconf.ecbsn.com
 ffdbusinesscommittee.org
 ffelz.com
 ffesm.fr
@@ -55868,8 +55880,10 @@ i.go88.ca
 i.go88.com
 i.gridsumdissector.com
 i.hdreporn.com
+i.helikon.bg
 i.hit.club
 i.hotkeys.com
+i.id24.bg
 i.idio.co
 i.image-ad.jp
 i.imagepost.com
@@ -57435,6 +57449,7 @@ img.3lift.com
 img.3movs.com
 img.4clvr.jp
 img.69xporn.com
+img.abv.bg
 img.ad-seek.jp
 img.ad2.maho.jp
 img.addeluxe.jp
@@ -73276,6 +73291,7 @@ mdwoakridge.112.2o7.net
 mdwsavannah.112.2o7.net
 mdwskirt.112.2o7.net
 me-cdn.effectivemeasure.net
+me-client.eservice.emarsys.net
 me-gay.com
 me-ssl.effectivemeasure.net
 me.5.p2l.info
@@ -75641,6 +75657,7 @@ mobile-edge9.bcvcdn.com
 mobile-porn.club
 mobile-porn.pro
 mobile-production.content-square.net
+mobile-sdk-config.gservice.emarsys.net
 mobile-sdk-resources.jumio.com
 mobile-service.segment.com
 mobile-static.adsafeprotected.com
@@ -94317,6 +94334,7 @@ product-reviews.uk.intellitxt.com
 product.adingo.jp.eimg.jp
 product.adtima.vn
 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
+production-cmp.isgprivacy.cbsi.com
 production-tracking.riviu.co
 production.wootric.com
 production.wootric.com.herokudns.com
@@ -94449,6 +94467,7 @@ profitobody.com
 profitrise.live
 profitrumour.com
 profitsecret.org
+profitshare.bg
 profitsitesbiz.com
 profitspike.app
 profitspotentiels.com
@@ -96628,6 +96647,7 @@ r.foxgay.com
 r.logrocket.io
 r.looksmart.com
 r.marketing.dubaisothebys.com
+r.mradx.net
 r.msn.com
 r.openx.net
 r.popin.cc
@@ -97051,6 +97071,7 @@ ravizio.live
 ravizio.shop
 ravkoryn-pl.com
 ravkoryn.net
+ravm.tv
 ravnkapito.shop
 ravnmyntora.net
 ravoxaxuvezo.com
@@ -102606,9 +102627,11 @@ sdk.playtem.com
 sdk.postscript.io
 sdk.push.mob.com
 sdk.pushdi.com
+sdk.qikify.com
 sdk.resu.io
 sdk.scopely.io
 sdk.sharethrough.com
+sdk.split.io
 sdk.starbolt.io
 sdk.stat.foreign.nearme.com.cn
 sdk.streamrail.com
@@ -106638,6 +106661,7 @@ sitecdn.tvpage.com
 sitecoquin.com
 sitedataprocessing.com
 sitedesex.com
+sitegenesis.production.deckers.coremedia.cloud
 sitegiant.info
 siteimproveanalytics.com
 siteimproveanalytics.io
@@ -171599,6 +171623,7 @@ www.tao123.com
 www.tapair.com
 www.tapesxx.com
 www.taplinktrade.com
+www.tapresearch.com
 www.tapvex.click
 www.taradinhos.com
 www.taraftar46.com
