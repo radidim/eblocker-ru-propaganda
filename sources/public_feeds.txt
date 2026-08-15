@@ -5,3 +5,5 @@
 # Редове, започващи с #, се пропускат.
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
+https://easylist-downloads.adblockplus.org/bulgarian_list-minified.txt
+https://adaway.org/hosts.txt
