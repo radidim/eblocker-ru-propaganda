@@ -4,5 +4,4 @@
 # Добавяй нов ред с URL, за да включиш допълнителен източник.
 # Редове, започващи с #, се пропускат.
 
-https://raw.githubusercontent.com/astappiev/f-russia-list/main/filter-propaganda.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
