@@ -29,3 +29,4 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://urlhaus.abuse.ch/downloads/hostfile/
 https://lists.cyberhost.uk/malware.txt
+https://gist.githubusercontent.com/miglen/b95a5f4b1dc611f69d441462f6ee3324/raw/2667e7dbf3be6fe82eaafc850396eebbe95e68f4/hosts
