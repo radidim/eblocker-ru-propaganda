@@ -1,6 +1,6 @@
 # eBlocker RU-Propaganda — статистика на последното обновяване
 
-Последно обновено: **2026-08-18 16:00 UTC**
+Последно обновено: **2026-08-18 16:03 UTC**
 
 - Домейни от ръчния (базов) списък: **633**
 - Общо уникални домейни след сливане: **921943**
@@ -25,7 +25,6 @@
 | https://v.firebog.net/hosts/Easyprivacy.txt | 42905 | 6311 нови |
 | https://v.firebog.net/hosts/Prigent-Ads.txt | 4270 | 1534 нови |
 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt | 42343 | 0 нови |
-| https://all.dns.mullvad.net/dns-query | 0 | error: Remote end closed connection without response |
 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts | 95666 | 0 нови |
 | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt | 58354 | 0 нови |
 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts | 57 | 0 нови |
@@ -36,4 +35,3 @@
 | https://v.firebog.net/hosts/Easyprivacy.txt | 42905 | 0 нови |
 | https://v.firebog.net/hosts/Prigent-Ads.txt | 4270 | 0 нови |
 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt | 42343 | 0 нови |
-| https://all.dns.mullvad.net/dns-query | 0 | error: Remote end closed connection without response |
