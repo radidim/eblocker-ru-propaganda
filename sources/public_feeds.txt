@@ -30,3 +30,5 @@ https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/genera
 https://urlhaus.abuse.ch/downloads/hostfile/
 https://lists.cyberhost.uk/malware.txt
 https://gist.githubusercontent.com/miglen/b95a5f4b1dc611f69d441462f6ee3324/raw/2667e7dbf3be6fe82eaafc850396eebbe95e68f4/hosts
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+
