@@ -1,15 +1,15 @@
 # eBlocker RU-Propaganda — статистика на последното обновяване
 
-Последно обновено: **2026-08-18 18:54 UTC**
+Последно обновено: **2026-08-19 04:53 UTC**
 
 - Домейни от ръчния (базов) списък: **633**
-- Общо уникални домейни след сливане: **536327**
+- Общо уникални домейни след сливане: **536581**
 
 ## Публични източници
 
 | URL | Домейни | Резултат |
 |---|---|---|
-| https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt | 58666 | 58666 нови |
+| https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt | 58746 | 58746 нови |
 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts | 57 | 57 нови |
 | https://v.firebog.net/hosts/static/w3kbl.txt | 350 | 350 нови |
 | https://adaway.org/hosts.txt | 6540 | 6485 нови |
@@ -28,10 +28,10 @@
 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt | 12323 | 12076 нови |
 | https://v.firebog.net/hosts/Prigent-Crypto.txt | 11491 | 11365 нови |
 | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts | 2189 | 2074 нови |
-| https://phishing.army/download/phishing_army_blocklist_extended.txt | 156996 | 130605 нови |
+| https://phishing.army/download/phishing_army_blocklist_extended.txt | 157076 | 130650 нови |
 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt | 0 | 0 нови |
 | https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt | 8140 | 8105 нови |
 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts | 925 | 922 нови |
-| https://urlhaus.abuse.ch/downloads/hostfile/ | 348 | 346 нови |
-| https://lists.cyberhost.uk/malware.txt | 72016 | 70029 нови |
+| https://urlhaus.abuse.ch/downloads/hostfile/ | 363 | 361 нови |
+| https://lists.cyberhost.uk/malware.txt | 72133 | 70143 нови |
 | https://gist.githubusercontent.com/miglen/b95a5f4b1dc611f69d441462f6ee3324/raw/2667e7dbf3be6fe82eaafc850396eebbe95e68f4/hosts | 37 | 37 нови |
