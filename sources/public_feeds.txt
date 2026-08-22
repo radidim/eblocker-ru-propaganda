@@ -4,10 +4,4 @@
 # Добавяй нов ред с URL, за да включиш допълнителен източник.
 # Редове, започващи с #, се пропускат.
 
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://v.firebog.net/hosts/lists.php?type=tick
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-http s://raw.githubusercontent.com/hagezi/dns-blocklists-legacy/main/domains/multi.txt
-https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 https://gist.githubusercontent.com/miglen/b95a5f4b1dc611f69d441462f6ee3324/raw/2667e7dbf3be6fe82eaafc850396eebbe95e68f4/hosts
