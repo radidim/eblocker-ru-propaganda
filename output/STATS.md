@@ -1,9 +1,9 @@
 # eBlocker RU-Propaganda — статистика на последното обновяване
 
-Последно обновено: **2026-08-21 17:02 UTC**
+Последно обновено: **2026-08-22 04:50 UTC**
 
 - Домейни от ръчния (базов) списък: **633**
-- Общо уникални домейни след сливане: **398109**
+- Общо уникални домейни след сливане: **398195**
 
 ## Публични източници
 
@@ -13,6 +13,6 @@
 | https://v.firebog.net/hosts/lists.php?type=tick | 9 | 9 нови |
 | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt | 250125 | 243154 нови |
 | http s://raw.githubusercontent.com/hagezi/dns-blocklists-legacy/main/domains/multi.txt | 0 | error: <urlopen error unknown url type: http s> |
-| https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt | 44829 | 43918 нови |
+| https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt | 44915 | 44004 нови |
 | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt | 16842 | 16842 нови |
 | https://gist.githubusercontent.com/miglen/b95a5f4b1dc611f69d441462f6ee3324/raw/2667e7dbf3be6fe82eaafc850396eebbe95e68f4/hosts | 37 | 37 нови |
