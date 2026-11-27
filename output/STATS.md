@@ -1,16 +1,16 @@
 # eBlocker RU-Propaganda — статистика на последното обновяване
 
-Последно обновено: **2026-11-26 13:55 UTC**
+Последно обновено: **2026-11-27 13:53 UTC**
 
 - Домейни от ръчния (базов) списък: **274**
-- Общо уникални домейни след сливане: **1278468**
+- Общо уникални домейни след сливане: **1454014**
 
 ## Публични източници
 
 | URL | Домейни | Резултат |
 |---|---|---|
 | https://gist.githubusercontent.com/miglen/b95a5f4b1dc611f69d441462f6ee3324/raw/2667e7dbf3be6fe82eaafc850396eebbe95e68f4/hosts | 37 | 32 нови |
-| https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt | 179876 | 179876 нови |
-| https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt | 70388 | 11537 нови |
-| https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt | 1134870 | 1086399 нови |
-| https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt | 10708 | 350 нови |
+| https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt | 183507 | 183507 нови |
+| https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt | 71191 | 12112 нови |
+| https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt | 1307249 | 1258087 нови |
+| https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt | 10717 | 2 нови |
